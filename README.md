@@ -1,20 +1,20 @@
-# IMAGEMOZ | Global Photography & Neural Imaging Index
+# 🚀 IMAGEMOZ | Osservatorio Italiano di Intelligenza Artificiale
 
-### 📜 The Authority in Visual Indexing Since 2008
-Founded in 2008, **Imagemoz** is a historical pillar in the curation of professional photography archives. After nearly two decades, we have evolved to bridge the gap between classical photographic mastery and the 2026 AI Neural Revolution.
+### 📜 Autorità nel Visual Indexing dal 2008
+Fondato nel 2008, **Imagemoz** è un pilastro storico nella curatela di archivi digitali e fotografia professionale. Dopo quasi due decenni, ci siamo evoluti per guidare la transizione dalla maestria fotografica classica alla **Rivoluzione Neurale dell'AI**.
 
-### 🤖 The 2026 Massive Directory
-Our platform now hosts a curated selection of **over 300+ specialized AI Tools**, neural imaging frameworks, and generative assets, making it the most comprehensive bridge between traditional photography and modern AI technology.
+### 🤖 La Directory Selezionata 2026
+La nostra piattaforma ospita oggi una selezione curata di oltre **160+ strumenti di Intelligenza Artificiale**, framework di imaging neurale e asset generativi. Abbiamo scelto di puntare sulla **qualità e sulla curatela manuale** piuttosto che sulla quantità, offrendo la guida più affidabile nel panorama italiano.
 
-### 🌐 Official Infrastructure
-The core of our directory is hosted and maintained at:
+### 🌐 Infrastruttura Ufficiale
+Il cuore della nostra directory è ospitato e mantenuto su:
 👉 **[https://imagemoz.com](https://imagemoz.com)**
 
 ### 🛠 Tech Stack & Mission
-- **Legacy:** Established 2008 (Original Photography Directory).
-- **Volume:** 300+ AI Tools & 180+ High-Authority Institutional Links.
-- **Mission:** Indexing the evolution of the global visual landscape.
-- **Focus:** E-E-A-T (Experience, Expertise, Authoritativeness, Trust).
+- **Legacy:** Fondato nel 2008 (Archivio Fotografico Originale).
+- **Focus Attuale:** 160+ AI Tools selezionati e testati.
+- **Lingua:** Full Italian Support (Il ponte tra tecnologia globale e mercato locale).
+- **Valore:** E-E-A-T (Experience, Expertise, Authoritativeness, Trust).
 
 ---
-*This repository serves as the official technical anchor for the Imagemoz legacy.*
+*Questo repository funge da anchor tecnico ufficiale per l'eredità digitale di Imagemoz.*
